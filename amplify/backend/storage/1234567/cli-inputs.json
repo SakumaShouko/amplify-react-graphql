@@ -1,0 +1,14 @@
+{
+  "resourceName": "1234567",
+  "policyUUID": "261f68cf",
+  "bucketName": "honeymustardsourceyyds",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
